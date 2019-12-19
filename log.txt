@@ -1,0 +1,16 @@
+Preferred food: {'Milk', 'Beer', 'Meat', 'Carrot', 'Bread', 'Fish'}
+Datagram received: @Al~0
+Reply: The Cat is amused by #0
+Datagram received: ex - M~1
+Reply: The Cat is amused by #1
+Datagram received: ilk~
+@Alex - Milk~
+Reply: Eaten by the Cat
+Segment received: @Alex~@007~@Alex~@Alex~@Alex~@Alex~
+@Alex~@007~@Alex~@Alex~@Alex~@Alex~
+Reply: Tolerated by the Cat
+Scratched by the Cat
+Tolerated by the Cat
+Tolerated by the Cat
+Tolerated by the Cat
+Tolerated by the Cat
